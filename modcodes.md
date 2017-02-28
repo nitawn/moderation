@@ -33,4 +33,4 @@ Ce sont des YTbers modérateurs sur des servers qui font parfois des vérificati
   Reports:
   
 Si vous voyez un signalement d'un joueur pour cheat, vous devez utiliser "/mur" puis vous téléporter au joueur afin d'observer dans un premier temps s'il cheat réelement.
-Si vous êtes sur, vous êtes en droit de le bannir (voir: type de ban pour Cheating) ou de le vérif. 
+Si vous êtes certain, vous êtes en droit de le sanctionner (voir le type de ban pour Cheating) ou si vous avez des doutes sur l'utilisation de mods de triche à son égard le vérifier.
