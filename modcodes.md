@@ -22,4 +22,15 @@ Insultes : /mute [joueur] Insultes + [screen]
   
 Si un modérateur soupçonne un joueur de tricher, il le teleporte au warp BAN de manière a attendre pendant la vérif.
 Le modérateur doit informer le joueur de: - Ne pas se déconnecter (dans le cas contraire = /tempban [joueur] 2mo Refus de vérif)
-                                          - Demander son skype afin de procéder à la vérif.
+                                          - Demander son skype afin de procéder à la vérification.
+                                          - Lui demander de télécharger join.me et si besoin l'aider a partager son écran.
+                                          - Si il a des difficultés demandez à prendre la main.
+                                          - Si il refuse de coopérer, c'est la même sanction qu'une déconnexion (voir premier tiret)
+                                          
+Si vous ne savez pas de quelle manière vérifier, vous pouvez regarder des vérifs de Mushway, ShaZen, iSufraz, ... 
+Ce sont des YTbers modérateurs sur des servers qui font parfois des vérifications sur leur chaine.
+
+  Reports:
+  
+Si vous voyez un signalement d'un joueur pour cheat, vous devez utiliser "/mur" puis vous téléporter au joueur afin d'observer dans un premier temps s'il cheat réelement.
+Si vous êtes sur, vous êtes en droit de le bannir (voir: type de ban pour Cheating) ou de le vérif. 
