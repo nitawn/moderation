@@ -1,8 +1,7 @@
-Les Modérateurs ont été retenus de manière a garantir le bon fonctionnement au niveau social comme au niveau de la jouabilité.
-Ils permettent l'épanouissement des joueurs sur le serveur.
+  Rôle:
 
-Mais ils se trouvent de respecter les codes que je vais vous lister ci-dessous.
-
+Un modérateur est une personne se chargeant de la modération et du respect des règles du serveur.
+Son pseudo est précédé du préfix [Modérateur]
   Statut social:
   
 Un modérateur doit être discret. Eviter que les joueurs le remarque mais toujours répondre présent lors d'un appel à l'aide.
